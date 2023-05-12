@@ -2,6 +2,8 @@
 
 # checksum
 
+checksum and file comparison tool
+
 ## usage
 here's how to use checksum:
 
